@@ -2,4 +2,5 @@ ricky
 gaelle
 priestb
 mercy
-adejo
+adej
+new member
